@@ -43,7 +43,7 @@
     "@types/node": "~8.9.4",
     "@webcomponents/webcomponentsjs": "^2.0.0",
     "codelyzer": "~4.2.1",
-    "digital-web-component-library": "git+https://github.com/MyWebRepository/digital-web-component-libaray.git",
+    "digital-web-component-library": "git+https://github.com/MyWebRepository/digital-web-component-library.git",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~1.7.1",
